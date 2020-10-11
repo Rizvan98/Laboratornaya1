@@ -1,0 +1,13 @@
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\bin\Debug\netcoreapp3.1\Laboratornaya1.exe
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\bin\Debug\netcoreapp3.1\Laboratornaya1.deps.json
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\bin\Debug\netcoreapp3.1\Laboratornaya1.runtimeconfig.json
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\bin\Debug\netcoreapp3.1\Laboratornaya1.runtimeconfig.dev.json
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\bin\Debug\netcoreapp3.1\Laboratornaya1.dll
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\bin\Debug\netcoreapp3.1\Laboratornaya1.pdb
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.csprojAssemblyReference.cache
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.AssemblyInfoInputs.cache
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.AssemblyInfo.cs
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.dll
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.pdb
+C:\Users\Oleg\Desktop\AlievLaboratornaya1\Laboratornaya1\Laboratornaya1\obj\Debug\netcoreapp3.1\Laboratornaya1.genruntimeconfig.cache
